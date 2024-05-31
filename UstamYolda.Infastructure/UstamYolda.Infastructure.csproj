@@ -22,7 +22,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\UstamYolda.Core\UstamYolda.Core.csproj" />
-    <ProjectReference Include="..\UstamYolda.DependencyInjection\UstamYolda.DependencyInjection.csproj" />
   </ItemGroup>
 
 </Project>

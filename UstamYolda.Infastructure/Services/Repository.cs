@@ -1,6 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿
+using Microsoft.EntityFrameworkCore;
 using UstamYolda.Core.Aggregates.Interfaces;
 using UstamYolda.Infastructure.Datas;
+
 
 namespace BitirmeProjesi.Infrastructure.Services
 {
